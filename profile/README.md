@@ -37,6 +37,7 @@ of working with databases in your PHP applications.
 
 - 📖 [docs](https://github.com/cycle/docs): Cycle documentation repository with auto-sync to
   the [website](https://cycle-orm.dev).
+- 📖 [forum](https://forum.roadrunner.dev/): froum.
 
 ---
 
