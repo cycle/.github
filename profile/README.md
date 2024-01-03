@@ -13,9 +13,12 @@
 intuitive and flexible. It provides a full-featured, high-performance database access layer that simplifies the process
 of working with databases in your PHP applications.
 
-# 💬 Join our discord server: [Link](https://discord.gg/TFeEmCs)
+## 🥳 Community
 
-# 🤗 Support us here: [Link](https://github.com/sponsors/roadrunner-server)
+[![Twitter](https://img.shields.io/badge/-Follow-black?style=flat-square&logo=X)](https://twitter.com/spiralphp)
+[![Discord](https://img.shields.io/discord/538114875570913290?style=flat-square&logo=discord&color=0000ff)](https://discord.gg/spiralphp)
+
+## 🤗 Support us here: [Link](https://github.com/sponsors/roadrunner-server)
 
 #### 🗺️ The Cycle ecosystem contains the following packages:
 
@@ -37,11 +40,9 @@ of working with databases in your PHP applications.
 
 - 📖 [docs](https://github.com/cycle/docs): Cycle documentation repository with auto-sync to
   the [website](https://cycle-orm.dev).
-- 📖 [forum](https://forum.roadrunner.dev/).
+- 📖 [blog](https://spiral.dev/blog).
 
 ---
-
-### Our other tremendous projects
 
 🔥 **[RoadRunner](https://roadrunner.dev/)**: RoadRunner is high-performance PHP application server and process manager
 written in Go and powered with plugins.  
