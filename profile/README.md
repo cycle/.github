@@ -7,9 +7,7 @@
 
 <br>
 
-### 🙋‍ Welcome to the Cycle ORM organization on GitHub!
-
-**Cycle ORM** is a modern data mapper for PHP, designed to be
+### 🙋‍ **Cycle ORM** is a modern data mapper for PHP, designed to be
 intuitive and flexible. It provides a full-featured, high-performance database access layer that simplifies the process
 of working with databases in your PHP applications.
 
