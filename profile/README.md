@@ -17,7 +17,7 @@ of working with databases in your PHP applications.
 [![Twitter](https://img.shields.io/badge/-Follow-black?style=flat-square&logo=X)](https://twitter.com/spiralphp)
 [![Discord](https://img.shields.io/discord/538114875570913290?style=flat-square&logo=discord&color=0000ff)](https://discord.gg/spiralphp)
 
-## 🤗 Support us here: [Link](https://github.com/sponsors/roadrunner-server)
+## 🤗 Support us here: [Link](https://github.com/sponsors/cycle)
 
 #### 🗺️ The Cycle ecosystem contains the following packages:
 
