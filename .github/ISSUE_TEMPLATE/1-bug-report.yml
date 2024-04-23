@@ -10,14 +10,6 @@ body:
     attributes:
       value: 🐞 **Bug Report**
 
-  - type: checkboxes
-    id: search-done
-    attributes:
-      label: No duplicates 🥲.
-      options:
-        - label: I have searched for a similar issue in our bug tracker and didn't find any solutions.
-          required: true
-
   - type: textarea
     id: bug-description
     attributes:
