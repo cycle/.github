@@ -1,46 +1,27 @@
-# Description
+<!-- Note to EXTERNAL Contributors -->
+<!-- Thanks for opening a PR!
+If it is a significant code change, please **make sure there is an open issue** for this.
+We work best with you when we have accepted the idea first before you code. -->
 
-<!-- Welcome to Contributors! 🌟
-If you're making a significant change, please open an issue first to discuss.
-This ensures we all agree on the solution before you invest time in coding. -->
+## 🔍 What was changed
+<!-- Describe what has changed in this PR.
+Be clear and concise—this helps reviewers understand your changes quickly.-->
 
-## 🔍 Changes Made
+> [!NOTE]
+> Write a notice here or remove this block.
 
-<!-- What have you changed? Summarize the main points here.
-Be clear and concise—this helps reviewers understand your changes quickly. -->
+## 🤔 Why? 
+<!-- Tell your future self why have you made these changes.
+Remove this block if the reason was explained in the related issue. -->
 
-## 🤔 Rationale
+## 📝 Checklist
+<!--- add/delete as needed --->
 
-<!-- Why are these changes necessary?
-Link to any related discussions in GitHub issues or explain your reasoning here.
-This context is crucial for reviewers to assess the relevance and impact of your changes. -->
+- Closes #<!-- add issue number here -->
+- How was this tested:
+  - [ ] Tested manually
+  - [ ] Unit tests added
 
-## 🎟️ Related Tickets & Documents
+## 📃 Documentation
 
-- Fixes/Closes: #<!-- Insert GitHub issue number here -->
-
-## 📋 Checklist
-
-<!-- Review this checklist and confirm you’ve addressed these items before submitting your PR -->
-<!-- Use UI to check the items that apply, or use [x] to mark it. -->
-
-- [ ] My code follows the contributing guidelines of this project
-- [ ] I have performed a self-review of my own code
-- [ ] I have made corresponding changes to the documentation <!-- delete if not applicable -->
-
-## 🧪 Added or updated tests?
-
-<!-- How should reviewers verify your changes? This can be as simple as "Ran unit tests"
-or more detailed like "Tested on staging with multiple environments."
-More details help ensure reliability. -->
-<!-- Use UI to check the items that apply, or use [x] to mark it. -->
-
-- [ ] Tested manually
-- [ ] Unit tests added
-
-## 📝 Additional Context (optional)
-
-<!-- Provide any additional context or information that may be helpful for the reviewers.
-Links to documentation, references, or any other supplementary information that will
-help reviewers understand your changes better. Include any design decisions,
-alternative solutions considered, and other relevant details here. -->
+<!--- Remove if not needed -->
