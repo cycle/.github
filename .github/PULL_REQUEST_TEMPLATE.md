@@ -10,7 +10,7 @@ Be clear and concise—this helps reviewers understand your changes quickly.-->
 > [!NOTE]
 > Write a notice here or remove this block.
 
-## 🤔 Why? 
+## 🤔 Why?
 <!-- Tell your future self why have you made these changes.
 Remove this block if the reason was explained in the related issue. -->
 
