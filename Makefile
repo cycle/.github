@@ -11,7 +11,7 @@ ACTION_LINT_RUNNER ?= $(DOCKER) run --rm $$(tty -s && echo "-it" || echo) \
 	-v $(shell pwd):/app \
 	 --workdir /app \
 	 rhysd/actionlint:latest \
-	 -color -verbose
+	 -color
 
 MARKDOWN_LINT_RUNNER ?= $(DOCKER) run --rm $$(tty -s && echo "-it" || echo) \
 	-v $(shell pwd):/app \
@@ -79,7 +79,7 @@ hooks: ## Install git hooks from pre-commit-config
 	pre-commit autoupdate
 .PHONY: hooks
 
-lint: lint-yaml lint-actions ## Lint all files
+lint: lint-yaml lint-actions lint-md ## Lint all files
 .PHONY: lint
 
 lint-yaml: ## Lint all yaml files
