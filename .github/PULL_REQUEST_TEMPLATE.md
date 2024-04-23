@@ -22,8 +22,8 @@ Remove this block if the reason was explained in the related issue. -->
 
 - Closes #<!-- add issue number here -->
 - How was this tested:
-    - [ ] Tested manually
-    - [ ] Unit tests added
+  - [ ] Tested manually
+  - [ ] Unit tests added
 
 ## 📃 Documentation
 
