@@ -30,9 +30,9 @@ Follow us on [X (Twitter)](https://x.com/intent/follow?screen_name=SpiralPHP) an
 - [**ORM**](https://github.com/cycle/orm): Core of our project — Data mapper layer.
 - [**Database**](https://github.com/cycle/database): Database connectors and utilities for MySQL, PostgreSQL, MSSQL, and SQLite.
 - [**Annotated**](https://github.com/cycle/annotated): Support for annotated entity classes, allowing direct definitions of schemas in PHP code.
-- [**Schema Renderer**](https://github.com/cycle/schema-renderer): Renders ORM schemas into various formats, including PHP code and console output.
+- [**Schema Renderer**](https://github.com/cycle/schema-renderer): Renders ORM schemas into various formats, including PHP code, console output and [Mermaid](https://mermaid.js.org/).
 - [**Schema Provider**](https://github.com/cycle/schema-provider): Provides the ability to build schema for Cycle ORM from different sources.
-- [**Entity Behavior**](https://github.com/cycle/entity-behavior): Utility classes for entity behaviors like soft deletes, auto timestamps, and UUID generation.
+- [**Entity Behavior**](https://github.com/cycle/entity-behavior): Utility classes for entity behaviors like soft deletes, auto timestamps, and [UUID generation](https://cycle-orm.dev/docs/entity-behaviors-uuid).
 - [**Migrations**](https://github.com/cycle/migrations): Automatically generates migration files to keep the database schema in sync with the ORM schema.
 
 ## 👩‍💻 Resources for Developers
@@ -50,8 +50,8 @@ Cycle ORM can be integrated seamlessly with various PHP frameworks, enhancing pr
 
 ## 🚀 Key Projects
 
-[**RoadRunner**](https://roadrunner.dev/): High-performance PHP server and process manager.
-[**Spiral Framework**](https://spiral.dev/): Secure and modular PHP framework.
+- [**RoadRunner**](https://roadrunner.dev/): High-performance PHP server and process manager.
+- [**Spiral Framework**](https://spiral.dev/): Secure and modular PHP framework.
 
 ## 🤗 Support Cycle ORM
 
