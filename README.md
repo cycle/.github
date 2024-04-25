@@ -33,12 +33,6 @@ We believe in maintaining a respectful environment. All contributors are encoura
 
 <br>
 
-## ⚖️ License
-
-[![Licence](https://img.shields.io/github/license/cycle/.github?style=for-the-badge&color=blue)](./LICENSE)
-
-<br>
-
 ## 🙌 Want to Contribute?
 
 Thank you for considering contributing to the cycle community! We are open to all kinds of contributions. If you want to:
@@ -54,6 +48,12 @@ You are more than welcome. Before contributing, kindly check our [contribution g
 
 <br>
 
+## 🫡 Contributors
+
+[![Contributors Badge](https://img.shields.io/github/contributors-anon/cycle/.github?style=for-the-badge)](https://github.com/cycle/.github/graphs/contributors)
+
+<br>
+
 ## 🌐 Social Links
 
 - **X (Twitter):** Follow our organization [@cycle](https://x.com/intent/follow?screen_name=SpiralPHP).
@@ -61,8 +61,8 @@ You are more than welcome. Before contributing, kindly check our [contribution g
 
 <br>
 
-## 🫡 Contributors
+## ⚖️ License
 
-<img align="left" src="https://img.shields.io/github/contributors-anon/cycle/.github?style=for-the-badge" alt="Contributors Badge"/>
+[![Licence](https://img.shields.io/github/license/cycle/.github?style=for-the-badge&color=blue)](./LICENSE)
 
 <br>
