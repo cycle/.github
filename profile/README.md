@@ -60,4 +60,4 @@ Consider supporting us by becoming a sponsor on GitHub: [Become a Sponsor](https
 
 ## 📄 Contributing to Cycle ORM
 
-We welcome contributions of all forms, from code improvements to documentation. Dive into our [Contributing Guidelines](https://github.com/cycle/.github/blob/main/CONTRIBUTING.md) for more details on how you can contribute.
+We welcome contributions of all forms, from code improvements to documentation. Dive into our [Contributing Guidelines](https://github.com/cycle/.github/blob/main/.github/CONTRIBUTING.md) for more details on how you can contribute.
