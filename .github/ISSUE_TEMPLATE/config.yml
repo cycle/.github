@@ -1,14 +1,18 @@
 ---
 
-blank_issues_enabled: false
+blank_issues_enabled: true
 
 contact_links:
-  - name: Start a discussion or ask a question.
+  - name: 💬 Discussions
     url: https://github.com/cycle/orm/discussions
-    about: Please ask and answer questions here.
+    about: Ask and answer questions about Cycle ORM.
 
-  - name: Join our Discord Community
+  - name: 💬 Discord
     url: https://discord.gg/spiralphp
-    about: Join our Discord community to get help, share your ideas, and chat with other developers.
+    about: Ask questions and chat with the community.
+
+  - name: 📖 Documentation
+    url: https://cycle-orm.dev/docs
+    about: Read the Cycle ORM documentation.
 
 ...
