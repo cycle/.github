@@ -1,30 +1,19 @@
-<!-- Note to EXTERNAL Contributors -->
-<!-- Thanks for opening a PR!
-If it is a significant code change, please **make sure there is an open issue** for this.
-We work best with you when we have accepted the idea first before you code. -->
+<!-- Thanks for opening a PR! -->
 
-## 🔍 What was changed
+## What was changed
 
-<!-- Describe what has changed in this PR.
-Be clear and concise—this helps reviewers understand your changes quickly.-->
+<!-- Describe what has changed in this PR -->
 
-> [!NOTE]
-> Write a notice here or remove this block.
+See commit history for details.
 
-## 🤔 Why?
+## Why?
 
-<!-- Tell your future self why have you made these changes.
-Remove this block if the reason was explained in the related issue. -->
+<!-- Tell your future self why have you made these changes -->
 
-## 📝 Checklist
-
-<!--- add/delete as needed --->
+## Checklist
 
 - Closes #<!-- add issue number here -->
-- How was this tested:
+- Tested
   - [ ] Tested manually
   - [ ] Unit tests added
-
-## 📃 Documentation
-
-<!--- Remove if not needed -->
+- [ ] Documentation <!--- Remove if not needed -->
