@@ -12,33 +12,56 @@
 
 <div align="center">
 
-[![Follow on X (Twitter)](https://img.shields.io/badge/-Follow-black?style=flat-square&logo=X)](https://x.com/intent/follow?screen_name=SpiralPHP)
-[![Discord](https://img.shields.io/discord/538114875570913290?style=flat-square&logo=discord&labelColor=7289d9&logoColor=white&color=39456d)](https://discord.gg/spiralphp)
-[![Support](https://img.shields.io/static/v1?style=flat-square&label=Support&message=%E2%9D%A4&logo=GitHub&color=%23fe4e86)](https://github.com/sponsors/cycle)
+[![Documentation](https://img.shields.io/badge/Documentation-blue?style=for-the-badge&logo=gitbook&logoColor=white)](https://cycle-orm.dev/docs)
+[![Sponsor](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Sponsor&logo=githubsponsors&logoColor=white&color=%23EA4AAA)](https://github.com/sponsors/cycle)
+[![Discord](https://img.shields.io/discord/538114875570913290?style=for-the-badge&logo=discord&labelColor=7289d9&logoColor=white&color=39456d)](https://discord.gg/spiralphp)
 
 </div>
 
 # Welcome to Cycle Organization! 👋
 
-**Cycle ORM** is a modern data mapper for PHP, designed to be intuitive and flexible. It offers a high-performance database access layer that simplifies working with databases in PHP applications.
+**Cycle ORM** is a modern data mapper for PHP 8.2+, designed to be intuitive and flexible. It offers a high-performance database access layer that simplifies working with databases in PHP applications.
 
 ## 💬 Join Our Community
 
-Follow us on [X (Twitter)](https://x.com/intent/follow?screen_name=SpiralPHP) and join our [Discord server](https://discord.gg/spiralphp) to connect with other Cycle ORM users and contributors!
+Join our [Discord server](https://discord.gg/spiralphp) to connect with other Cycle ORM users and contributors!
 
 ## 🗺️ Explore the Cycle Ecosystem
 
+### Core
+
 - [**ORM**](https://github.com/cycle/orm): Core of our project — Data mapper layer.
-- [**Database**](https://github.com/cycle/database): Database connectors and utilities for MySQL, PostgreSQL, MSSQL, and SQLite.
-- [**Annotated**](https://github.com/cycle/annotated): Support for annotated entity classes, allowing direct definitions of schemas in PHP code.
+- [**Database**](https://github.com/cycle/database): Database abstraction layer with query builders and schema introspection for MySQL, PostgreSQL, SQL Server and SQLite.
+- [**Transaction**](https://github.com/cycle/transaction): Runs raw database queries and a scoped Entity Manager inside one database transaction.
+
+### Schema
+
+- [**Annotated**](https://github.com/cycle/annotated): Defines entities, columns and relations with PHP attributes.
+- [**Schema Builder**](https://github.com/cycle/schema-builder): Compiles entity declarations into the ORM schema and syncs database tables.
+- [**Schema Provider**](https://github.com/cycle/schema-provider): Builds the ORM schema from different sources, with caching.
 - [**Schema Renderer**](https://github.com/cycle/schema-renderer): Renders ORM schemas into various formats, including PHP code, console output and [Mermaid](https://mermaid.js.org/).
-- [**Schema Provider**](https://github.com/cycle/schema-provider): Provides the ability to build schema for Cycle ORM from different sources.
-- [**Entity Behavior**](https://github.com/cycle/entity-behavior): Utility classes for entity behaviors like soft deletes, auto timestamps, and [UUID generation](https://cycle-orm.dev/docs/entity-behaviors-uuid).
-- [**Migrations**](https://github.com/cycle/migrations): Automatically generates migration files to keep the database schema in sync with the ORM schema.
+
+### Migrations
+
+- [**Migrations**](https://github.com/cycle/migrations): Migration runner and repository for Cycle Database.
+- [**Schema Migrations Generator**](https://github.com/cycle/schema-migrations-generator): Generates migration files from the difference between the ORM schema and the database.
+
+### Extensions
+
+- [**Entity Behavior**](https://github.com/cycle/entity-behavior): Entity behaviors like auto timestamps, soft deletes, optimistic locking, hooks and event listeners.
+- [**Entity Behavior UUID**](https://github.com/cycle/entity-behavior-uuid): [UUID](https://cycle-orm.dev/docs/entity-behaviors-uuid) primary keys and columns.
+- [**Entity Behavior Identifier**](https://github.com/cycle/entity-behavior-identifier): [`ramsey/identifier`](https://github.com/ramsey/identifier) types as entity columns.
+- [**Active Record**](https://github.com/cycle/active-record): The [Active Record](https://cycle-orm.dev/docs/active-record-introduction) pattern on top of Cycle ORM.
+- [**ORM Promise Mapper**](https://github.com/cycle/orm-promise-mapper): A mapper that loads relations through promise objects instead of proxies.
+
+### Tooling
+
+- [**Testing**](https://github.com/cycle/testing): Shared [Testo](https://github.com/php-testo/testo) test harness for Cycle ORM packages: per-driver suites and test databases in Docker.
+- [**Skills**](https://github.com/cycle/skills): Agent skills that teach AI coding assistants to work with Cycle ORM and its attributes.
 
 ## 👩‍💻 Resources for Developers
 
-- [Documentation](https://cycle-orm.dev/docs): Official documentation repository with auto-sync to the [Cycle website](https://cycle-orm.dev).
+- [Documentation](https://cycle-orm.dev/docs): Official documentation, built from the [docs repository](https://github.com/cycle/docs).
 - [Cycle Blog](https://spiral.dev/blog): Stay updated with the latest news and insights directly from our team.
 
 ## 🌍 Cycle ORM Integrations
